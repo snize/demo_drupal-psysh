@@ -42,3 +42,5 @@ Drupal ConsoleでのDBの作成とDrupalの初期設定の書き込み
 ```
 ./vendor/bin/drush php
 ```
+
+[![asciicast](https://asciinema.org/a/fxubV35zMfbzeUmfK4xPRQY3p.png)](https://asciinema.org/a/fxubV35zMfbzeUmfK4xPRQY3p)
