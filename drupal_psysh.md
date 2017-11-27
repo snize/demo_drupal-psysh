@@ -139,7 +139,7 @@ asciinema rec
 ```
 
 
-## 以上です、ありがとうございました (｡･ω･｡)ﾉ
+## 以上です、ありがとうございました<br /> (｡･ω･｡)ﾉ
 
 - このデモのリポジトリ [snize/demo_drupal-psysh](https://github.com/snize/demo_drupal-psysh)
 
