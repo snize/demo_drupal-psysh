@@ -139,13 +139,9 @@ asciinema rec
 ```
 
 
-## おまけ
+## 以上です、ありがとうございました (｡･ω･｡)ﾉ
 
-- [Hard time debugging?, not anymore with PsySH – 42MATE Blog](https://blog.42mate.com/hard-time-debugging-no-more-with-psysh/)
-- [Drupal 8 Debugging Techniques - WebWash](https://www.webwash.net/drupal-8-debugging-techniques/)
-
-
-## ありがとうございました (｡･ω･｡)ﾉ
+- このデモのリポジトリ [snize/demo_drupal-psysh](https://github.com/snize/demo_drupal-psysh)
 
 
 ### 過去の発表
@@ -154,5 +150,5 @@ asciinema rec
 
 ### コンタクト
 
-- [@snize](https://twitter.com/snize)
+- [@snize](https://twitter.com/snize) ← フォローお願いします
 - kaneko@zerobase.jp
