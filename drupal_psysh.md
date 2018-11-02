@@ -1,6 +1,6 @@
 # Talking with Drupal
 
-Drupalと話そう
+psyshでの対話型デバッグ
 
 
 Tomotsugu Kaneko
